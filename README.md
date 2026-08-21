@@ -52,13 +52,13 @@ A collection of classic games built from scratch — Minesweeper, Tetris, Astero
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CharaDesalegn&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharaDesalegn&layout=compact&hide_border=true" height="165"/>
 </p>
 
 ---
 
 ## Get in Touch
 
-- 📧 YOUR_EMAIL
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+- 📧 [YOUR_EMAIL](desalenyc@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/chara-dessalegn-620a812b9/)
