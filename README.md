@@ -24,28 +24,20 @@ I like building things end to end — from a Flutter mobile app talking to a RES
 
 ---
 
-## Featured Projects
-
-**[CampusHustle](#)**
-A platform connecting students with mentors and learners. Built with React + Vite as part of a team, following a shared design system.
-
-**School Schedule Viewer**
-A schedule and announcement application for keeping students up to date.
-
-**Flutter E-Commerce App**
-A mobile e-commerce application built with Flutter, powered by a REST API.
-
-**Game Development Projects**
-A collection of classic games built from scratch — Minesweeper, Tetris, Asteroids, and Snake.
-
----
-
 ## Currently Learning
 
 - React — deeper patterns and best practices
 - Backend development and system design
 - Git/GitHub collaboration workflows
 - Linux fundamentals
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CharaDesalegn/CharaDesalegn/output/github-contribution-grid-snake.svg" alt="A snake game rendering my GitHub contribution graph" />
+</p>
 
 ---
 
