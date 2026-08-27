@@ -38,7 +38,7 @@ KKKKKKKKOd:...             .,loooolclcccccccllclooll,.                ..;oOKKKKK
 KKKKkl,.                     ..:oddllollcclooloddc'.                      ..:xKKK
 KKo.                            ..';:clooolc:;'..                            .;KK
 </pre>
-#Hi, I'm Chara 👋
+# Hi, I'm Chara 👋
 
 Aspiring software developer building useful applications, web experiences, and games. Currently deepening my skills in the **INSA Summer Camp Development Department** — full-stack fundamentals, system design, and DevOps.
 
