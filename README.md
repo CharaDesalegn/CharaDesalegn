@@ -40,13 +40,14 @@ KKo.                            ..';:clooolc:;'..                            .;K
 </pre>
 # Hi, I'm Chara 👋
 
-Aspiring software developer building useful applications, web experiences, and games. Currently deepening my skills in the **INSA Summer Camp Development Department** — full-stack fundamentals, system design, and DevOps.
+----
 
----
+----
+
 
 ## About Me
 
-I like building things end to end — from a Flutter mobile app talking to a REST API, to a browser game with nothing but vanilla JavaScript. Right now I'm focused on leveling up my backend and system design skills, and getting more comfortable with Git/GitHub collaboration and Linux.
+I'm a self-taught developer who enjoys building things from the ground up and constantly exploring new technologies, started with browser games built entirely in vanilla JavaScript. I'm currently focused on strengthening my backend engineering and system design skills, along with Git/GitHub collaboration and Linux proficiency.
 
 ---
 
@@ -59,36 +60,20 @@ I like building things end to end — from a Flutter mobile app talking to a RES
 | 🎮 Game Development | Unity, Godot |
 | ⚙️ Backend Development | Node.js, Express, REST APIs |
 | 🗄️ Databases | MongoDB |
-| 🐍 Languages | Python, JavaScript, Dart |
+| 🐍 Languages | Python, JavaScript, Dart, C#, GD script |
 | 🔧 Tools | Git, GitHub, VS Code |
 
 ---
 
 ## Currently Learning
 
+- Linux Ricing
 - React — deeper patterns and best practices
 - Backend development and system design
 - Git/GitHub collaboration workflows
 - Linux fundamentals
 
----
 
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CharaDesalegn/CharaDesalegn/output/github-contribution-grid-snake.svg" alt="A snake game rendering my GitHub contribution graph" />
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CharaDesalegn&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharaDesalegn&layout=compact&hide_border=true" height="165"/>
-</p>
-
----
 
 ## Get in Touch
 
